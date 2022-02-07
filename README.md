@@ -9,12 +9,10 @@ IT'S PRONOUNCED "REE-CON-O-TIER"
   <img alt="Uses Fabric" src="https://user-images.githubusercontent.com/93849152/148856808-a29a2b4b-7699-4560-9618-44257d6ed7ee.png" width="200">
 </a>
 
+<img src="https://user-images.githubusercontent.com/93849152/148856705-c04c31b5-4e80-4d21-a770-a7cfb1d17a50.png" width="500" height="300"> <img src="https://user-images.githubusercontent.com/93849152/148856715-3d821588-1a18-4741-98a8-3989b0cf9f08.png" width="500" height="300">
 
-![image](https://user-images.githubusercontent.com/93849152/148856705-c04c31b5-4e80-4d21-a770-a7cfb1d17a50.png)
-![image](https://user-images.githubusercontent.com/93849152/148856715-3d821588-1a18-4741-98a8-3989b0cf9f08.png)
-![image](https://user-images.githubusercontent.com/93849152/148856723-46321050-a269-470b-8157-6644d7d53bd5.png)
-![image](https://user-images.githubusercontent.com/93849152/148856773-0050e7d5-ffdc-4cfb-a7c2-13e06d9fe70b.png)
-![image](https://user-images.githubusercontent.com/93849152/148856788-f729018b-a0d8-4a3a-9853-173e4dcd1e2a.png)
+<img src="https://user-images.githubusercontent.com/93849152/148856773-0050e7d5-ffdc-4cfb-a7c2-13e06d9fe70b.png" width="500" height="300"> <img src="https://user-images.githubusercontent.com/93849152/148856788-f729018b-a0d8-4a3a-9853-173e4dcd1e2a.png" width="500" height="300">
+
 ![2022-01-10_16 17 57](https://user-images.githubusercontent.com/93849152/148859539-af35b67e-0ce3-42e2-92fe-77dee31259d6.png)
 
 # Frequently Asked Questions
