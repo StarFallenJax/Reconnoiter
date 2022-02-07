@@ -16,3 +16,20 @@ IT'S PRONOUNCED "REE-CON-O-TIER"
 ![image](https://user-images.githubusercontent.com/93849152/148856773-0050e7d5-ffdc-4cfb-a7c2-13e06d9fe70b.png)
 ![image](https://user-images.githubusercontent.com/93849152/148856788-f729018b-a0d8-4a3a-9853-173e4dcd1e2a.png)
 ![2022-01-10_16 17 57](https://user-images.githubusercontent.com/93849152/148859539-af35b67e-0ce3-42e2-92fe-77dee31259d6.png)
+
+# Frequently Asked Questions
+**Q:** Will you port this to X version?
+
+**A:** Most likely not. Reconnoiter will always stay on the latest version of Fabric, with older releases on past versions.
+
+
+
+**Q:** Can I download this from Curseforge?
+
+**A:** Currently, This modpack is not on Curseforge, I don't have an intent of putting it on there for right now as the process is tedious.
+
+
+
+**Q:** When is the next update?
+
+**A:** It comes when it comes.
