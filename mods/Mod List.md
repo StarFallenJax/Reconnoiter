@@ -7,9 +7,13 @@ Additional Additions 3.0.1
 
 Advanced Netherite (Fabric) 1.3.1
 
+Space Dimensions 0.5.3
+
 Arcanus 1.25
 
 Architectury 3.4.9
+
+Armor Chroma 1.2.0
 
 Bclib 1.2.2
 
@@ -51,6 +55,8 @@ Essential (Fabric) 1.18.1
 
 Extra Alchemy (Fabric) 1.7.0
 
+Smooth Swapping (Fabric) 1.7.0
+
 Fabric API 0.45.2
 
 Fabric Seasons 1.3 BETA
@@ -60,6 +66,8 @@ Ferrite Core (Fabric) 4.0.0
 First Person (Fabric) 2.1.0
 
 Forge Config API Port 3.1.0
+
+Iceberg (Fabric) 1.0.38
 
 I Know What I'm Doing (Fabric) 4.0.0
 
@@ -75,6 +83,8 @@ Iris MC 1.1.4
 
 LazyDFU 0.1.2
 
+Legendary Tooltips (Fabric) 1.2.3
+
 Lithium (Fabric) 0.7.7
 
 Logical Zoom 0.0.13
@@ -87,7 +97,11 @@ Mouse Tweaks (Fabric) 2.20
 
 Not Enough Animations (Fabric) 1.4.0
 
+Nullscape (Fabric + Forge) 1.1
+
 Origins 1.3.1
+
+Patchouli (Fabric) 1.18.1
 
 Physics Mod (Fabric) 2.6.4
 
@@ -105,11 +119,15 @@ Sodium (Fabric) 0.4.0 Alpha
 
 Some Forge Patches Ported 1.0.2
 
+Sound Physics 0.5.6
+
 Terralith (Fabric + Forge) 2.0.10
 
 Towers of the Wild Reworked 2.1.0
 
 Visual Workbench (Fabric) 3.1.0
+
+Simple Voice Chat (Fabric) 2.2.16
 
 Wavey Capes (Fabric) 1.0.4
 
