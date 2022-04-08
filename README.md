@@ -30,4 +30,4 @@ It is pronounced "REE-CON-O-TIER". I know that isn't how it's meant to be pronou
 
 **Q:** When is the next update?
 
-**A:** It comes when it comes.
+**A:** I consider this modpack to be finished. Of course there is still room for improvement, such as updating existing mods and maximizing preformance, maybe even port this to 1.19. For now, It will no longer be updated.
